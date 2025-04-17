@@ -1,23 +1,19 @@
 ## A.J. Im
 
-I'm a French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University in the Netherlands 🇳🇱
+French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University 🇳🇱
 
-### About Me
-- 🔬 Interested in: Biomedical Engineering, Remote Surgery, Augmented Reality in Healthcare, AI in Decision-Making
-- 💼 Past experience in:
-  - Sales & marketing of MedTech devices
+### 🔍 Interests
+- Biomedical Engineering, Augmented Reality in Healthcare, AI for Decision-Making  
+- Experience in MedTech sales & marketing
 
-### 🚀 Featured Projects
-- 🧠 [Cognition & Computation](https://github.com/joonhaim/Cognition-and-Computation) course projects (Drift Diffusion Model, Connectionist Models)
-- 🧾 [EasySave](https://github.com/joonhaim/EasySave): A AI-powered financial planning assistant for students
+### 🚀 Projects
+- 🧠 [Cognition & Computation](https://github.com/joonhaim/Cognition-and-Computation)  
+- 🧾 [EasySave](https://github.com/joonhaim/EasySave): AI-powered student finance assistant
 
-### 🌱 Currently Learning
-- Reinforcement Learning
-- Neural Networks
-- German 🇩🇪 (B1 → aiming for B2 Goethe-Zertifikat)
+### 🌱 Learning
+- Reinforcement Learning | Neural Networks | German 🇩🇪 (B1 → aiming for B2)
 
-### 💬 Let's Talk
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/joonhaim) 
+### 🛠 Tech Stack
+`Python` | `Java` | `SQL` | `Git` | `HTML/CSS` | `PyTorch` | `Scikit-learn` | `Jupyter` | `Flask` | `R`
 
-### 🛠️ Tech Stack
-`Python` | `Java` | `SQL` | `Git` | `HTML/CSS` | `PyTorch` | `Scikit-learn` | `Jupyter` | `Flask`
+📫 [LinkedIn](https://www.linkedin.com/in/joonhaim)
