@@ -4,7 +4,7 @@ French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University �
 
 ### 🔍 Interests
 - Biomedical Engineering, Augmented Reality in Healthcare, AI for Decision-Making  
-- Experience in MedTech sales & marketing
+- Experience in MedTech Sales & Marketing
 
 ### 🚀 Projects
 - [Cognition & Computation](https://github.com/joonhaim/Cognition-and-Computation)  
