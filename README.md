@@ -15,4 +15,4 @@ French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University �
 Reinforcement Learning | Neural Networks | German 🇩🇪 (B1 → aiming for B2)
 
 ### 🛠 Tech Stack
-`Python` | `Java` | `SQL` | `Git` | `HTML/CSS` | `PyTorch` | `Scikit-learn` | `Jupyter` | `Flask` | `R`
+Python | Java | R | SQL | Git | HTML/CSS | Flask | PyTorch | Scikit-learn | Jupyter
