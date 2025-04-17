@@ -1,16 +1,24 @@
-## Hi there 👋
+## A.J. Im
 
-<!--
-**joonhaim/joonhaim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University in the Netherlands 🇳🇱
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Currently pursuing a BSc in Data Science & Artificial Intelligence (2023–2026)
+- 🔬 Interested in: Biomedical Engineering, Remote Surgery, Augmented Reality in Healthcare, AI in Decision-Making
+- 💼 Past experience in:
+  - Sales & marketing of MedTech devices
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Current Projects
+- 🧠 Cognition & Computation course projects (Drift Diffusion Model, Connectionist Models)
+- 🧾 [EasySave](https://github.com/joonhaim/EasySave): A financial planning assistant for students
+
+### 🌱 Currently Learning
+- Reinforcement Learning
+- Neural Networks
+- German 🇩🇪 (B1 → aiming for B2 Goethe-Zertifikat)
+
+### 💬 Let's Talk
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/joonhaim) 
+
+### 🛠️ Tech Stack
+`Python` | `Java` | `SQL` | `Git` | `HTML/CSS` | `PyTorch` | `Scikit-learn` | `Jupyter` | `Flask`
