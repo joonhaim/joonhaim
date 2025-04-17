@@ -11,7 +11,7 @@ French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University �
 - [EasySave](https://github.com/joonhaim/EasySave): AI-powered student finance assistant
 - Public Data Analysis (upcoming)
 
-### 🌱 Learning
+### 🌱 Currently Learning
 Reinforcement Learning | Neural Networks | German 🇩🇪 (B1 → aiming for B2)
 
 ### 🛠 Tech Stack
