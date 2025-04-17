@@ -7,9 +7,9 @@ I'm a French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden Univers
 - 💼 Past experience in:
   - Sales & marketing of MedTech devices
 
-### 🚀 Current Projects
-- 🧠 Cognition & Computation course projects (Drift Diffusion Model, Connectionist Models)
-- 🧾 [EasySave](https://github.com/joonhaim/EasySave): A financial planning assistant for students
+### 🚀 Featured Projects
+- 🧠 [Cognition & Computation](https://github.com/joonhaim/Cognition-and-Computation) course projects (Drift Diffusion Model, Connectionist Models)
+- 🧾 [EasySave](https://github.com/joonhaim/EasySave): A AI-powered financial planning assistant for students
 
 ### 🌱 Currently Learning
 - Reinforcement Learning
