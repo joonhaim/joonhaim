@@ -3,7 +3,7 @@
 French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University 🇳🇱
 
 ### 🔍 Interests
-- Biomedical Engineering, Augmented Reality in Healthcare, AI for Decision-Making  
+- Biomedical Engineering, Augmented Reality in Healthcare
 - Experience in MedTech Sales & Marketing
 
 ### 🚀 Projects
