@@ -6,7 +6,7 @@ French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University �
 - Biomedical Engineering, Augmented Reality in Healthcare
 - Experience in MedTech Sales & Marketing
 
-### 🚀 Projects
+### 🚀 Featured Projects
 - Public Data Analysis (upcoming)
 - [Cognition & Computation](https://github.com/joonhaim/Cognition-and-Computation)  
 - [EasySave](https://github.com/joonhaim/EasySave): AI-powered student finance assistant
