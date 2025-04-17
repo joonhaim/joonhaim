@@ -2,8 +2,7 @@
 
 I'm a French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University in the Netherlands 🇳🇱
 
-### 👨‍💻 About Me
-- 🎓 Currently pursuing a BSc in Data Science & Artificial Intelligence (2023–2026)
+### About Me
 - 🔬 Interested in: Biomedical Engineering, Remote Surgery, Augmented Reality in Healthcare, AI in Decision-Making
 - 💼 Past experience in:
   - Sales & marketing of MedTech devices
