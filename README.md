@@ -1,6 +1,8 @@
 ## A.J. Im
 
 French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University 🇳🇱
+[🌐 Website](https://joonhaim.github.io) | [🔗 LinkedIn](https://www.linkedin.com/in/joonhaim)
+
 
 ### 🔍 Interests
 - Biomedical Engineering, Augmented Reality in Healthcare
