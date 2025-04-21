@@ -2,7 +2,7 @@
 
 French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University 🇳🇱
 
-[🌐 Personal Website](https://joonhaim.github.io)  |  [🔗 LinkedIn](https://www.linkedin.com/in/joonhaim)
+[🌐 Personal Website](https://joonhaim.github.io)  |  [🔗 LinkedIn](https://www.linkedin.com/in/aj-im)
 
 
 ### 🔍 Interests
