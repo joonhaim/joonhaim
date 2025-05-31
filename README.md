@@ -2,7 +2,7 @@
 
 French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University 🇳🇱
 
-Minor in Biomedical Engineering at TU Delft
+Biomedical Engineering Minor at TU Delft
 
 
 [🌐 Personal Website](https://joonhaim.github.io)  |  [🔗 LinkedIn](https://www.linkedin.com/in/aj-im)
