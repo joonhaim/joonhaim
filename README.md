@@ -1,7 +1,6 @@
 ## A.J. Im
 
-French-Korean 🇫🇷🇰🇷 Data Science & AI student at Leiden University 🇳🇱
-
+🇫🇷🇰🇷 French-Korean student in Data Science & AI at Leiden University 🇳🇱
 Biomedical Engineering Minor at TU Delft
 
 
