@@ -9,6 +9,7 @@ Biomedical Engineering Minor at TU Delft
 
 ### 🔍 Interests
 - Biomedical Engineering, Augmented Reality in Healthcare
+- Data Analysis and AI in Medicine
 - Experience in MedTech Sales & Marketing
 
 ### 🚀 Featured Projects
