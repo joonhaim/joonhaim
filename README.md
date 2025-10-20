@@ -3,7 +3,7 @@
 🇫🇷🇰🇷
 
 Data Science & AI @ Leiden University 🇳🇱  
-Biomedical Engineering Minor at TU Delft
+Biomedical Engineering Minor @ TU Delft
 
 
 [🌐 Personal Website](https://joonhaim.github.io)  |  [🔗 LinkedIn](https://www.linkedin.com/in/aj-im)
