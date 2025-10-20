@@ -9,9 +9,9 @@ Biomedical Engineering Minor @ TU Delft
 [🌐 Personal Website](https://joonhaim.github.io)  |  [🔗 LinkedIn](https://www.linkedin.com/in/aj-im)
 
 ### 🔍 Interests
-- Biomedical Engineering · AR for Healthcare  
-- AI in Medicine  
-- MedTech Sales & Marketing
+- Biomedical Engineering · Surgical Visualization · AR/VR in Medicine 
+- AI in Medical Imaging  
+- MedTech Sales & Marketing 
 
 ### 🚀 Featured Projects
 - **Public Data Analysis** *(upcoming)*
