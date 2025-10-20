@@ -24,6 +24,6 @@ Medical Imaging · Reinforcement Learning · Neural Networks · German 🇩🇪 
 ### 🛠 Tech Stack
 **Languages:** Python · Java · R · SQL  
 **ML/DS:** PyTorch · scikit-learn · Jupyter  
-**Web/Tools:** HTML/CSS · Flask · Git
+**Web/Tools:** HTML/CSS · Git
 
 *Last updated: Oct 2025*
