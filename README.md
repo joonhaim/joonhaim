@@ -13,14 +13,16 @@ Biomedical Engineering Minor at TU Delft
 - MedTech Sales & Marketing
 
 ### 🚀 Featured Projects
-- Public Data Analysis (upcoming)
-- [Cognition & Computation](https://github.com/joonhaim/Cognition-and-Computation)  
-- [EasySave](https://github.com/joonhaim/EasySave): AI-powered student finance assistant
+- **Public Data Analysis** *(upcoming)*
+- **[Cognition & Computation](https://github.com/joonhaim/Cognition-and-Computation)** — cognitive models & experiments  
+- **[EasySave](https://github.com/joonhaim/EasySave)** — AI-powered student finance assistant
 
 ### 🌱 Currently Learning
-Medical Imaging | Reinforcement Learning | Neural Networks | German 🇩🇪 (B1 → aiming for B2)
+Medical Imaging · Reinforcement Learning · Neural Networks · German 🇩🇪 (B1 → B2)
 
 ### 🛠 Tech Stack
-Python | Java | R | SQL | Git | HTML/CSS | Flask | PyTorch | Scikit-learn | Jupyter
+**Languages:** Python · Java · R · SQL  
+**ML/DS:** PyTorch · scikit-learn · Jupyter  
+**Web/Tools:** HTML/CSS · Flask · Git
 
 *Last updated: Oct 2025*
