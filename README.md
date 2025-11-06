@@ -14,7 +14,7 @@ Biomedical Engineering Minor @ TU Delft
 - MedTech Sales & Marketing 
 
 ### 🚀 Featured Projects
-- **Public Data Analysis** *(upcoming)*
+- **[Swiss Hospital Procedures](https://joonhaim.github.io/ch_hospital.html)** - Interactive dashboard on hospital case volumes across Switzerland
 - **[Cognition & Computation](https://github.com/joonhaim/Cognition-and-Computation)** — cognitive models & experiments  
 - **[EasySave](https://github.com/joonhaim/EasySave)** — AI-powered student finance assistant
 
