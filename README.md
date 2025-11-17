@@ -18,9 +18,6 @@ Biomedical Engineering Minor @ TU Delft
 - **[Cognition & Computation](https://github.com/joonhaim/Cognition-and-Computation)** — cognitive models & experiments  
 - **[EasySave](https://github.com/joonhaim/EasySave)** — AI-powered student finance assistant
 
-### 🌱 Currently Learning
-Medical Imaging · Reinforcement Learning · Neural Networks · German 🇩🇪 (B1 → B2)
-
 ### 🛠 Tech Stack
 **Languages:** Python · Java · R · SQL  
 **ML/DS:** PyTorch · scikit-learn · Jupyter  
