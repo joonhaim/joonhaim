@@ -11,7 +11,6 @@ Biomedical Engineering Minor @ TU Delft
 ### 🔍 Interests
 - Biomedical Engineering · Surgical Visualization · AR/VR in Medicine 
 - AI in Medical Imaging  
-- MedTech Sales & Marketing 
 
 ### 🚀 Featured Projects
 - **[Swiss Hospital Procedures](https://joonhaim.github.io/ch_hospital.html)** - Interactive dashboard on hospital case volumes across Switzerland
