@@ -1,7 +1,5 @@
 ## A.J. Im
 
-🇫🇷🇰🇷
-
 Data Science & AI @ Leiden University 🇳🇱  
 Biomedical Engineering Minor @ TU Delft
 
