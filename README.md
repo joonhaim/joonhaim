@@ -20,4 +20,4 @@ Biomedical Engineering Minor @ TU Delft
 **ML/DS:** PyTorch · scikit-learn · Jupyter  
 **Web/Tools:** HTML/CSS · Git
 
-*Last updated: Dec 2025*
+*Last updated: Mar 2026*
